@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>3</LogNumber>
+    <LogTimeStamp>08/24/2020 09:15:06</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Not Reported</Result>
+      <ReturnCode>BOOT_HOST_OS</ReturnCode>
+      <LogData>
+        <ePSALogTimeStamp>08/24/2020 09:14:59</ePSALogTimeStamp>
+        <ePSAVersion>ED.1.0.2</ePSAVersion>
+        <ErrorCode>2000:0000</ErrorCode>
+        <ValidationCode>67640</ValidationCode>
+        <ErrorMessage><![CDATA[No bootable devices found.
+
+]]></ErrorMessage>
+      </LogData>
+      <ePSAInfo><![CDATA[serviceTag=CZWS203&errCode=0000&ValCode=67640&fru=_&uID=0DD23]]></ePSAInfo>
+      <ePSAFullVersion>ED.1.0.2</ePSAFullVersion>
+      <ePSAInvocationCount>7</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>NO_BOOT</ErrorCategory>
+      <Flags>BIOSCONNECT_ENABLED</Flags>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>
