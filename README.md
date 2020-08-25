@@ -4,7 +4,7 @@ Opencore hackintosh of a Dell 14 5400 2-in-1 notebook
 
 ## Dell Specs:
 
-* 10th Generation Intel® Core™ i3-1005G1 Processor
+* 10th Generation Intel® Core™ i3-1005G1 Processor (Ice Lake)
 * Windows 10 Home 64bit English
 * 4GB,1x4GB,DDR4,3200MHz
 * 256GB M.2 PCIe NVMe Solid State Drive
