@@ -29,15 +29,6 @@ This build is for Catalina 10.15.4 using Opencore 0.6.0.
 * SD Card Reader
 * HDMI Port
 * Fn keys to control volume and keyboard backlight
-* Combo jack
-* iMessage and FaceTime (plist in repo sanitized.  You'll need to find your own SN)
-
-## BIOS Configuration
-Turn off the Secure Boot. That should be all.
-
-## UEFI Variables
-In order to run macOS without having to use WhatEverGreen's framebuffer patching and CFG-related booter quirks, it is strongly recommended to modify a few UEFI variables. To do that, you can use the included ModifiedGrub.efi (credits *brainsucker*), which provides the setup_var command.
-
 
 
 ## Credits
