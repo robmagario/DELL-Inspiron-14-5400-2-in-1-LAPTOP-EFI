@@ -13,8 +13,8 @@ This build is for Catalina 10.15.4 using Opencore 0.6.0.
 
 ## What's working
 
-* Wifi and Bluetooth (replaced with Fenvi BCM94352Z, it worked out of the box as advertised on Taobao)
-
+* WiFi and Bluetooth (replaced with Fenvi BCM94352Z, it worked out of the box as advertised on Taobao)
+* keyboard
 
 ## What's not working
 
