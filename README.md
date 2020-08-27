@@ -14,14 +14,13 @@ This build is for Catalina 10.15.4 using Opencore 0.6.0.
 ## What's working
 
 * WiFi and Bluetooth (replaced with Fenvi BCM94352Z, it worked out of the box as advertised on Taobao)
-* keyboard
-* touchpad
+* Keyboard
+* Trackpad
 
 ## What's not working
 
 * Integrated RealTek webcam
 * Fn keys to control display backlight
-* Trackpad
 * Backlight
 * Audio - Built in and HDMI
 * All USB ports including USB-C
